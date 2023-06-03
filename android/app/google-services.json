@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358114603475",
+    "project_id": "ben-all",
+    "storage_bucket": "ben-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358114603475:android:775c5dc3db981ea6e63f26",
+        "android_client_info": {
+          "package_name": "com.New.Project.ben_all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358114603475-aitj7t91301nosmaosu3hfvghc1c3qk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstn11RCGhcjUnST9yrxj5CEIuFLT_yH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358114603475-aitj7t91301nosmaosu3hfvghc1c3qk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
